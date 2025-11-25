@@ -1,0 +1,10 @@
+[project]
+name = "dependabot-cooldown-bug"
+version = "0.0.0"
+requires-python = "==3.12.*"
+dependencies = [
+    "pydantic>=2.12.2"
+]
+
+[tool.uv]
+required-version = "0.9.11"
